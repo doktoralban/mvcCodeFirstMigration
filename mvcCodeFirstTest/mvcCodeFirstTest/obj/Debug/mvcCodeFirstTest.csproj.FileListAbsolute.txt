@@ -1,0 +1,147 @@
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\ApplicationInsights.config
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\mvcCodeFirstTest.dll.config
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\mvcCodeFirstTest.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\mvcCodeFirstTest.pdb
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Antlr3.Runtime.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.Web.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.WindowsServer.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.ApplicationInsights.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.Web.Infrastructure.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Newtonsoft.Json.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Helpers.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Mvc.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Optimization.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Razor.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.Deployment.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.Razor.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\WebGrease.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Helpers.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Mvc.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Optimization.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Razor.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.Deployment.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.Razor.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Antlr3.Runtime.pdb
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Newtonsoft.Json.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.ApplicationInsights.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.WindowsServer.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.Web.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.csproj.CoreCompileInputs.cache
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.pdb
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\EntityFramework.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\EntityFramework.SqlServer.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\EntityFramework.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\bin\EntityFramework.SqlServer.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.Migrations.m1.resources
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.csproj.GenerateResource.Cache
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.csprojResolveAssemblyReference.cache
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.csproj.CopyComplete
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\ApplicationInsights.config
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\mvcCodeFirstTest.dll.config
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\mvcCodeFirstTest.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\mvcCodeFirstTest.pdb
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Antlr3.Runtime.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\EntityFramework.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\EntityFramework.SqlServer.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.Web.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.WindowsServer.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.ApplicationInsights.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.Web.Infrastructure.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Newtonsoft.Json.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Helpers.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Mvc.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Optimization.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Razor.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.Deployment.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.Razor.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\WebGrease.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\EntityFramework.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\EntityFramework.SqlServer.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Helpers.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Mvc.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Optimization.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Razor.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.Deployment.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.Razor.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Antlr3.Runtime.pdb
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Newtonsoft.Json.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.ApplicationInsights.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.WindowsServer.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.Web.xml
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.Migrations.m1.resources
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.csproj.GenerateResource.cache
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.csproj.CoreCompileInputs.cache
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.csproj.CopyComplete
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.dll
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.pdb
+C:\projS\_OrnekVeTestler\MVC ler\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.csprojAssemblyReference.cache
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\ApplicationInsights.config
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\mvcCodeFirstTest.dll.config
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\mvcCodeFirstTest.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\mvcCodeFirstTest.pdb
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Antlr3.Runtime.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\EntityFramework.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\EntityFramework.SqlServer.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.Web.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.WindowsServer.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.ApplicationInsights.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.Web.Infrastructure.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Newtonsoft.Json.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Helpers.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Mvc.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Optimization.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Razor.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.Deployment.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.Razor.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\WebGrease.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\EntityFramework.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\EntityFramework.SqlServer.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Helpers.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Mvc.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Optimization.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.Razor.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.Deployment.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\System.Web.WebPages.Razor.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Antlr3.Runtime.pdb
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Newtonsoft.Json.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.ApplicationInsights.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.WindowsServer.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\bin\Microsoft.AI.Web.xml
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.csprojAssemblyReference.cache
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.Migrations.m1.resources
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.csproj.GenerateResource.cache
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.csproj.CoreCompileInputs.cache
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.csproj.CopyComplete
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.dll
+C:\prjS\_MvcS\mvcCodeFirstMigration\mvcCodeFirstTest\mvcCodeFirstTest\obj\Debug\mvcCodeFirstTest.pdb
